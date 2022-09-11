@@ -4,10 +4,10 @@ Through this homework task I have learned the following:
 
 - The Basics of GitHub
 - The difference between Git and GitHub
-- Undestanding the GitHub flow
+- Understanding the GitHub flow
 - Important terms to know and use
 
-**I will now explain what I'm _clued up_ on :nerd*face: and what I'm still \_confused* about :unamused:**
+**I will now explain what I'm *clued up* on and what I'm still *confused* about :unamused:**
 
 ## What is GitHub? :thinking:
 
@@ -51,4 +51,5 @@ Once you have commited all changes and are ready to add them to your repository 
 
 Whilst I feel I have a good understanding of Git and GitHub, I still feel that only more practice will get me more confident on GitHub. Knowimg when to commit and push will be quite a scary task when out in the real world.
 
-I'm really grateful for this task to help me understand and I love that GitHub have provided some great resources to go through such as ["Git and GitHub learning resources"] (https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) I think this will be super helpful in future.
+I'm really grateful for this task to help me understand and I love that GitHub have provided some great resources to go through such as ["Git and GitHub learning resources"] (https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) I think this will be super helpful to look into in the future.
+

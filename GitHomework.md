@@ -7,7 +7,7 @@ Through this homework task I have learned the following:
 - Undestanding the GitHub flow
 - Important terms to know and use
 
-**I will now explain what I'm _clued up_ on :nerd\*face: and what I'm still _confused_ about :unamused:**
+**I will now explain what I'm _clued up_ on :nerd*face: and what I'm still \_confused* about :unamused:**
 
 ## What is GitHub? :thinking:
 
